@@ -1,0 +1,150 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+  overflow-x: hidden;
+}
+h1,h2,h3,h4,h5,p
+{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+   
+}
+.nav div {
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
+.search-bar
+{
+    margin: 10px auto;
+    max-width: 800px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.search-bar input
+{
+    width: 450px;
+    height: 35px;
+    padding-left: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+input::placeholder
+{
+    font-size: 15px;
+    font-weight: 500;
+    color: gray;
+    text-transform:capitalize;
+    padding-left: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+#btn {
+   
+    height: 35px;
+    width: 35px;
+    padding: 0px;
+    font-size: 12px;
+    background-color: rgba(211, 199, 199, 0.356);
+    border-color: rgba(211, 199, 199, 0.356);
+    background-color: red;
+    color: white;
+}
+@media (max-width:768px)
+{
+    .search-bar input
+    {
+        width: 200px;
+        height: 35px;
+    }
+}
+.btn-danger
+{
+    background-color: black;
+    border: black;
+}
+.card-image{
+    padding: 10px;
+}
+.card-image {
+    width: 100%;
+    max-height: 250px; /* Set a maximum height to prevent the image from being larger than 250px */
+    overflow: hidden; /* Hide any excess image content beyond the specified height */
+}
+
+.card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.button {
+    background-color: white;
+    color: black;
+    width: 100%;
+    padding: 10px; /* Add padding for better button appearance */
+    text-align: center; /* Center-align the text */
+    cursor: pointer; /* Add a pointer cursor for usability */
+    border: 1px solid black; /* Add a border for button styling */
+    font-weight: bold;
+  }
+  .button:hover, .button2:hover {
+    background-color: black; /* Change background color on hover */
+    color: white; /* Change text color on hover */
+  }
+  .card-title
+  {
+    font-family: 'Poppins', sans-serif;
+
+  }
+  .prix
+  {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+  }
+  ul {
+    list-style: none; /* Remove list decoration */
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+li {
+    margin: 5px 0; /* Add margin between list items */
+    font-family: 'Poppins', sans-serif;
+    margin: 15px;
+}
+
+li a {
+    text-decoration: none; /* Remove underline from links */
+    color: #555; /* Gray font color */
+    font-size: 16px; /* Font size */
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+li a:hover {
+    text-decoration: none; /* Remove underline on hover */
+    color: #333; /* Darken the font color on hover if desired */
+    font-weight: bold;
+}
+.contact-title {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 8px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.contact-info {
+    color: #3498db;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.contact-info:hover {
+    text-decoration: underline;
+    font-family: 'Poppins', sans-serif;
+}

@@ -1,0 +1,172 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "productName": " Evening Gown",
+      "productPrice": "125,000",
+      "productImage": "images/1.jpg",
+      "productDescription": "Step into the spotlight with our Elegant Evening Gown, a stunning piece that combines timeless elegance with contemporary design. Crafted from luxurious fabrics, this gown features a delicate balance of intricate lace and soft silk that flows gracefully with every step you take. The bodice is adorned with hand-sewn beads and sequins, creating a shimmering effect that captures the light beautifully. Perfect for gala events or a sophisticated night out, this dress is designed to make a statement. The full-length skirt adds a touch of drama, while the tailored fit ensures you look impeccably polished from every angle. With its deep, rich color and exquisite attention to detail, the Elegant Evening Gown is more than just a dress—it's a work of art that will make you feel as beautiful as you look."
+    },
+    {
+      "id": "2",
+      "productName": " Leather Jacket",
+      "productPrice": "150,000",
+      "productImage": "images/2.jpg",
+      "productDescription": "Our Classic Leather Jacket is the epitome of rugged sophistication. Made from premium quality leather, it offers both durability and comfort. The jacket's timeless design features a zippered front, multiple pockets, and adjustable cuffs, blending functionality with style. The soft inner lining enhances warmth, making it perfect for chilly evenings. Whether you're heading to a casual meet-up or a more formal event, this versatile jacket can be dressed up or down. Its rich texture and classic cut ensure it remains a staple in your wardrobe for years to come. Pair it with jeans for a casual look or trousers for a more polished outfit."
+    },
+    {
+      "id": "3",
+      "productName": " Silk Scarf",
+      "productPrice": "95,000",
+      "productImage": "images/3.jpg",
+      "productDescription": "Add a touch of luxury to any ensemble with our Modern Silk Scarf. Crafted from 100% pure silk, this scarf is soft to the touch and features a contemporary print that makes it a standout accessory. The lightweight material allows it to be worn in various styles, whether draped loosely around your neck or tied in a sophisticated knot. Its vibrant colors and modern design are perfect for adding a splash of elegance to your outfit. Wear it to accessorize a simple blouse or to add some flair to a professional suit."
+    },
+    {
+      "id": "4",
+      "productName": "Vintage Jeans",
+      "productPrice": "110,000",
+      "productImage": "images/4.jpg",
+      "productDescription": "Discover the ultimate in comfort and style with our Vintage Denim Jeans. These jeans feature a classic cut that has been updated with a modern twist, offering a perfect fit that flatters all body types. The denim used in these jeans is sourced from one of the oldest mills, known for its durability and high quality. The subtle distressed details and washed effect give them a lived-in look that adds character and style. Ideal for everyday wear, these jeans can be paired with anything from a simple t-shirt to a more elaborate top for a night out."
+    },
+    {
+      "id": "5",
+      "productName": "Rhapsody Dress",
+      "productPrice": "180,000",
+      "productImage": "images/5.jpg",
+      "productDescription": "Embrace a free-spirited aesthetic with our Bohemian Rhapsody Dress. This beautiful dress is designed with a blend of floral prints and delicate lace, creating a romantic and whimsical look. The flowing silhouette and lightweight fabric ensure comfort and freedom of movement, making it ideal for spring and summer days. Whether you're attending a festival or strolling through the city, this dress will make you feel effortlessly chic."
+    },
+    {
+      "id": "6",
+      "productName": "Business Suit",
+      "productPrice": "200,000",
+      "productImage": "images/6.jpg",
+      "productDescription": "Project confidence and professionalism with our Contemporary Business Suit. This suit is tailored to provide a sleek, modern fit that sharpens any wardrobe. Constructed from high-quality materials, it features a structured jacket and slim-fit trousers that offer both style and comfort. The suit's subtle patterning and refined details such as the lapel pin and discreet pockets make it an essential choice for business meetings or formal occasions."
+    },
+    {
+      "id": "7",
+      "productName": "Trendsetter Bag",
+      "productPrice": "90,000",
+      "productImage": "images/7.jpg",
+      "productDescription": "Our Trendsetter Tote Bag is the perfect blend of functionality and fashion. Made from durable materials, this bag is designed to carry all your essentials with ease. The spacious interior, multiple compartments, and secure closures ensure that everything stays in place. Whether you're going to the office, shopping, or traveling, this tote will keep you organized and stylish."
+    },
+    {
+      "id": "8",
+      "productName": "Canvas Sneakers",
+      "productPrice": "75,000",
+      "productImage": "images/8.jpg",
+      "productDescription": "Step into comfort with our Casual Canvas Sneakers. These sneakers are designed for all-day wear, with a soft, breathable canvas upper and a cushioned footbed. The classic design is versatile enough to wear with jeans, shorts, or even dresses. Available in a variety of colors, these sneakers are a must-have for any casual wardrobe."
+    },
+    {
+      "id": "9",
+      "productName": "Sophisticated Dress",
+      "productPrice": "145,000",
+      "productImage": "images/9.jpg",
+      "productDescription": "Make a stunning entrance with our Sophisticated Cocktail Dress. This dress is the epitome of elegance, featuring a fitted bodice, a flared skirt, and delicate lace detailing. The high-quality fabric and meticulous construction ensure that you'll look fabulous from every angle. Ideal for cocktail parties or any special occasion where you want to impress."
+    },
+    {
+      "id": "10",
+      "productName": "Outdoor Boots",
+      "productPrice": "160,000",
+      "productImage": "images/10.jpg",
+      "productDescription": "Tackle any terrain with our Rugged Outdoor Boots. These boots are built to last, with a sturdy construction and high-quality materials. The waterproof design keeps your feet dry in wet conditions, while the rugged sole provides excellent traction on various surfaces. Ideal for hiking, camping, or any outdoor adventure."
+    },
+    {
+      "id": "11",
+      "productName": "ChicSummer Hat",
+      "productPrice": "65,000",
+      "productImage": "images/11.jpg",
+      "productDescription": "Shield yourself from the sun in style with our Chic Summer Hat. Made from lightweight materials, this hat not only provides excellent sun protection but also adds a fashionable touch to your summer outfits. The wide brim offers shade for your face and neck, while the stylish design ensures you look great. Perfect for beach days, garden parties, or any outdoor activity."
+    },
+    {
+      "id": "12",
+      "productName": "Luxury Watch",
+      "productPrice": "300,000",
+      "productImage": "images/12.jpg",
+      "productDescription": "Time is precious, and our Luxury Watch is a testament to this. Crafted with precision and care, this watch features a classic design with a modern twist. The stainless steel case, sapphire crystal glass, and elegant dial make it a timeless piece. Equipped with a reliable movement, it offers both functionality and style. An essential accessory for the discerning individual."
+    },
+    {
+      "id": "13",
+      "productName": "Sunglasses",
+      "productPrice": "120,000",
+      "productImage": "images/13.jpg",
+      "productDescription": "Our Designer Sunglasses are the perfect accessory for sunny days. With a stylish frame and high-quality lenses, they provide excellent UV protection while enhancing your fashion statement. Suitable for both casual and formal occasions, these sunglasses will keep you looking cool and feeling comfortable in the glare."
+    },
+    {
+      "id": "14",
+      "productName": "Blazer",
+      "productPrice": "210,000",
+      "productImage": "images/14.jpeg",
+      "productDescription": "Elevate your professional wardrobe with our Sophisticated Blazer. This blazer is designed for a polished and refined look, with sharp tailoring and a flattering fit. Made from high-quality materials, it's perfect for business meetings, formal events, or any occasion where you need to make a good impression. The classic design and versatile style make it an indispensable part of your wardrobe."
+    },
+    {
+      "id": "15",
+      "productName": "Floral Print ",
+      "productPrice": "130,000",
+      "productImage": "images/15.jpg",
+      "productDescription": "Our Floral Print Maxi Dress is a celebration of style and comfort. Featuring a beautiful array of flowers on a soft fabric, this dress is perfect for spring and summer events. The flowy silhouette and breathable material make it easy to wear all day, while the vibrant colors ensure you stand out in the best way possible."
+    },
+    {
+      "id": "16",
+      "productName": "Athletic Shoes",
+      "productPrice": "180,000",
+      "productImage": "images/16.jpg",
+      "productDescription": "Enhance your workout with our High-Performance Athletic Shoes. Designed for the active individual, these shoes offer superior comfort and support. The advanced cushioning and durable construction ensure they can withstand the most rigorous activities, while the sleek design keeps you looking stylish."
+    },
+    {
+      "id": "17",
+      "productName": "Eco-Friendly",
+      "productPrice": "85,000",
+      "productImage": "images/17.jpg",
+      "productDescription": "Our Eco-Friendly Tote Bag combines functionality with sustainability. Made from recycled materials, this bag is an excellent choice for the environmentally conscious shopper. Spacious and durable, it's ideal for carrying groceries, books, or any other essentials. The simple yet stylish design makes it a versatile addition to any collection."
+    },
+    {
+      "id": "18",
+      "productName": "Bespoke Tailored ",
+      "productPrice": "350,000",
+      "productImage": "images/18.jpg",
+      "productDescription": "Experience the ultimate in luxury and craftsmanship with our Bespoke Tailored Suit. Custom-made to your exact measurements and specifications, this suit ensures a perfect fit and unrivaled comfort. Crafted from the finest fabrics, it reflects sophistication and elegance, suitable for the most formal occasions."
+    },
+    {
+      "id": "19",
+      "productName": "Aviator Jacket",
+      "productPrice": "220,000",
+      "productImage": "images/19.png",
+      "productDescription": "Take to the skies in style with our Aviator Jacket. This jacket is inspired by the classic pilot's attire and modernized for everyday wear. Made from premium leather with a soft, comfortable lining, it offers warmth and style. The timeless design includes a zip-up front, snug cuffs, and multiple pockets for functionality."
+    },
+    {
+      "id": "20",
+      "productName": "Crafted Handbag",
+      "productPrice": "175,000",
+      "productImage": "images/20.jpg",
+      "productDescription": "Carry a piece of art with our Artisan Crafted Handbag. Each bag is unique, featuring hand-painted designs and exquisite craftsmanship. The high-quality materials and attention to detail ensure durability and style. Perfect for adding a touch of creativity to your outfit, this bag is a true statement piece."
+    },
+    {
+      "id": "21",
+      "productName": "Heirloom Scarf",
+      "productPrice": "110,000",
+      "productImage": "images/21.jpg",
+      "productDescription": "Wrap yourself in the warmth and beauty of our Heirloom Wool Scarf. Made from the finest wool, this scarf is both luxurious and durable. Its classic design and soft texture make it a must-have accessory for the colder months. Ideal for adding a touch of elegance to any winter outfit."
+    },
+    {
+      "id": "22",
+      "productName": "Out-Clutch Bag",
+      "productPrice": "70,000",
+      "productImage": "images/22.jpg",
+      "productDescription": "Our Night Out Clutch Bag is the perfect accessory for any evening event. Compact yet spacious enough to hold all your essentials, this clutch combines style with practicality. The sleek design and elegant materials make it an ideal complement to your evening wear."
+    },
+    {
+    "id": "23",
+    "productName": "Street Jacket",
+    "productPrice": "135,000",
+    "productImage": "images/23.jpg",
+    "productDescription": "Make a statement with our Street Style Bomber Jacket. This jacket combines urban flair with practicality, featuring a durable exterior and a comfortable interior. Its versatile design allows it to be paired with various outfits, making it a great addition to your casual wardrobe."
+    },
+    {
+      "id": "24",
+      "productName": "Glamorous Sequin ",
+      "productPrice": "250,000",
+      "productImage": "images/9.jpg",
+      "productDescription": "Shine at your next party with our Glamorous Sequin Dress. This dress is covered in sparkling sequins that catch the light from every angle. The fitted silhouette and short hem make it a showstopper, perfect for evenings where you want to be the center of attention."
+    }
+  ]
+}
