@@ -168,5 +168,63 @@
       "productImage": "images/9.jpg",
       "productDescription": "Shine at your next party with our Glamorous Sequin Dress. This dress is covered in sparkling sequins that catch the light from every angle. The fitted silhouette and short hem make it a showstopper, perfect for evenings where you want to be the center of attention."
     }
+  ],
+  "acc": [
+    {
+      "id": 1,
+      "name": "Illuminate",
+      "price": "99.99",
+      "description": "An elegant desk lamp with adjustable brightness settings to create the ideal workspace lighting environment. Perfect for late-night work or reading.",
+      "image": "images/accessories/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Harmony",
+      "price": "149.99",
+      "description": "Enhance your living space with our Harmony scented candle, designed to provide a soothing atmosphere and a touch of luxury.",
+      "image": "images/accessories/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Serene",
+      "price": "199.99",
+      "description": "Keep time in style with Serene, a modern minimalist clock that complements any room décor. It’s more than just a timepiece; it’s a lifestyle.",
+      "image": "images/accessories/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Brew",
+      "price": "249.99",
+      "description": "Start your day right with Brew, our premium coffee maker that guarantees a perfect cup every morning. Ideal for coffee aficionados.",
+      "image": "images/accessories/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Echo",
+      "price": "299.99",
+      "description": "Echo offers a high-quality audio experience with its advanced Bluetooth connectivity and crystal clear sound. Perfect for music lovers.",
+      "image": "images/accessories/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Zenith",
+      "price": "349.99",
+      "description": "Experience ultimate audio fidelity with Zenith wireless headphones. Designed for comfort and exceptional sound quality.",
+      "image": "images/accessories/6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Quest",
+      "price": "399.99",
+      "description": "Stay comfortable throughout your workday with the Quest ergonomic office chair. It combines style, support, and functionality.",
+      "image": "images/accessories/7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Clarity",
+      "price": "449.99",
+      "description": "Protect your eyes in style with Clarity advanced eyeglasses featuring a blue light filter, perfect for long hours in front of screens.",
+      "image": "images/accessories/8.jpg"
+    }
   ]
 }

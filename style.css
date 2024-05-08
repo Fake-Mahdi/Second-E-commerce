@@ -113,24 +113,7 @@ input::placeholder
     font-weight: bold;
 }
 
-li {
-    margin: 5px 0; /* Add margin between list items */
-    font-family: 'Poppins', sans-serif;
-    margin: 15px;
-}
 
-li a {
-    text-decoration: none; /* Remove underline from links */
-    color: #555; /* Gray font color */
-    font-size: 16px; /* Font size */
-    font-family: 'Poppins', sans-serif;
-    font-weight: bold;
-}
-li a:hover {
-    text-decoration: none; /* Remove underline on hover */
-    color: #333; /* Darken the font color on hover if desired */
-    font-weight: bold;
-}
 .contact-title {
     font-weight: bold;
     font-size: 18px;
